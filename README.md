@@ -22,3 +22,5 @@ Using the fork of Rofi for wayland by [lbonn](https://github.com/lbonn/rofi)
 
 ![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/cluttered.png)
 (Stuff)
+
+The screenshots with rofi show it slightly faded because it screenshots while rofi is closing. (idk how to screenshot rofi any other way besides executing grim through it)
