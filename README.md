@@ -19,3 +19,6 @@ Using the fork of Rofi for wayland by [lbonn](https://github.com/lbonn/rofi)
 
 ![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/rofiscreenshot.png)
 (Rofi)
+
+![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/cluttered.png)
+(Stuff)
