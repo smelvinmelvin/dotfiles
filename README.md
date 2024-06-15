@@ -16,3 +16,6 @@ Using the fork of Rofi for wayland by [lbonn](https://github.com/lbonn/rofi)
 (telescope.nvim)
 
 ![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/neofetchpng.png)
+
+![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/rofiscreenshot.png)
+(Rofi)
