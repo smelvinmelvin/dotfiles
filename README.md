@@ -12,3 +12,5 @@ Waybar/Hyprland configs and Waybar theme by [BHlmaoMSD](https://github.com/BHlma
 
 ![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/nerd2.png)
 (telescope.nvim)
+
+![alt text](https://github.com/smelvinmelvin/dotfiles/blob/main/Screenshots/neofetchpng.png)
