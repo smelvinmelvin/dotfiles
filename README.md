@@ -1,4 +1,5 @@
 # Info
+(i don't use these anymore)
 
 If you use the Neovim configs read each plugins github README so you know how to install them correctly
 
